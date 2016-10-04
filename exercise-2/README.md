@@ -8,6 +8,6 @@ See `complete` branch for answers.
 
 | **Course Number** | *Course Title* | Instructor  |
 | ------------- |:-------------:| -----:|
-| MKTG 301    | Marketing Concepts | Abishek Borah|
-| INFO 201    | Tech Foundation  |   Michael Freeman|
-| COM 202 | Intro to Comm II      |  Malcolm Parks |
+| **MKTG 301**  | Marketing Concepts | Abishek Borah|
+| **INFO 201**  | Tech Foundation  |   Michael Freeman|
+| **COM 202** | Intro to Comm II     |  Malcolm Parks |
