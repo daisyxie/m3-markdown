@@ -9,3 +9,15 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+# cd - used to change location
+```
+To enter the folder "exercise-3" within m3-markdown:
+daisyxie:m3-markdown daisyxie$ cd exercise-3
+daisyxie:exercise-3 daisyxie$ _
+```
+- Allows you to enter a different file or folder
+- Ways of doing so include:
+	- cd /Users/daisyxie/Documents
+	- cd Documents
+	- cd ~/Documents
